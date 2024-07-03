@@ -14,6 +14,5 @@ public class Payment {
     private String paymentMethod;
     private String paymentStatus;
 
-    // Constructors, getters, and setters
 }
 

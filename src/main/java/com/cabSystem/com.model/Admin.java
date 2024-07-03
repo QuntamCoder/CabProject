@@ -9,5 +9,4 @@ public class Admin {
     private String email;
     private String password;
 
-    // Constructors, getters, and setters
 }

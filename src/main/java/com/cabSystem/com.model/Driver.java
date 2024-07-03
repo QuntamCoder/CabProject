@@ -19,5 +19,4 @@ public class Driver {
     @OneToMany(mappedBy = "driver")
     private List<Feedback> feedbacks;
 
-    // Constructors, getters, and setters
 }

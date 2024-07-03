@@ -33,6 +33,5 @@ public class Booking {
     @OneToMany(mappedBy = "booking")
     private List<Feedback> feedbacks;
 
-    // Constructors, getters, and setters
 }
 
